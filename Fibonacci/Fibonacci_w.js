@@ -3,7 +3,7 @@
 // Фибуначијев низ
 
 console.log("Using while loops");
-var Fpr = 0, Fsl = 1, F;
+let Fpr = 0, Fsl = 1, F;
 console.log("Fibonacci series less than 100000");
 while(Fpr<100000)
 {
